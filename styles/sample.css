@@ -1,0 +1,40 @@
+/*Body Css formatting*/
+body{
+    background-color:skyblue ;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+/* Formatting for group of heading h1 h2 and h3*/
+h1,h2,h3
+{
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+/* id to format main text*/
+#mainText
+{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif
+    text-align:justify;
+}
+/*class full width image*/
+.fullWidthContent
+{
+    width:100&;
+}
+/*format the anchor*/
+a{
+    font: size 100px;
+}
+/*class for nav anchor*/
+{
+    color:chartreuse;
+font-size: 100px;
+padding: 80px;
+}
+.image-logo {
+    width: 300px;
+    height: 200px;
+}
